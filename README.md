@@ -1,4 +1,4 @@
-# 🤖 AI DEBUG TOOL
+# 🤖 CODEX
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 ## 🎯 Visão Geral
 
-O **AI DEBUG TOOL** é uma aplicação desktop moderna e intuitiva que facilita a criação de prompts estruturados e otimizados para a API do Claude AI. Com uma interface gráfica elegante e funcionalidades avançadas, permite organizar código-fonte por categorias, gerar documentação automaticamente e interagir diretamente com o Claude.
+O **CODEX** é uma aplicação desktop moderna e intuitiva que facilita a criação de prompts estruturados e otimizados para a API do Claude AI. Com uma interface gráfica elegante e funcionalidades avançadas, permite organizar código-fonte por categorias, gerar documentação automaticamente e interagir diretamente com o Claude.
 
 ### ✨ Novidades da Versão 2.1 (Modern Edition)
 
@@ -570,7 +570,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ```
 MIT License
 
-Copyright (c) 2024 AI DEBUG TOOL
+Copyright (c) 2025 CODEX
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -596,8 +596,8 @@ SOFTWARE.
 ## 📞 Contato e Suporte
 
 - **Issues**: https://github.com/seu-usuario/claude-prompt-generator/issues
-- **Discussions**: https://github.com/seu-usuario/claude-prompt-generator/discussions
-- **Email**: support@example.com
+- **Discussions**: https://github.com/caioalmeidamendonca/codex
+- **Email**: caioalmeidamendonca@gmail.com
 
 ---
 
