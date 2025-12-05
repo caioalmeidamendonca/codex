@@ -595,7 +595,6 @@ SOFTWARE.
 
 ## 📞 Contato e Suporte
 
-- **Issues**: https://github.com/seu-usuario/claude-prompt-generator/issues
 - **Discussions**: https://github.com/caioalmeidamendonca/codex
 - **Email**: caioalmeidamendonca@gmail.com
 
@@ -611,9 +610,9 @@ SOFTWARE.
 
 ## 📊 Status do Projeto
 
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/claude-prompt-generator)
-![GitHub issues](https://img.shields.io/github/issues/seu-usuario/claude-prompt-generator)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/seu-usuario/claude-prompt-generator)
+![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/codex)
+![GitHub issues](https://img.shields.io/github/issues/seu-usuario/codex)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/seu-usuario/codex)
 
 ---
 
@@ -621,6 +620,7 @@ SOFTWARE.
 
 **Feito com ❤️ e Python**
 
-[⬆ Voltar ao topo](#-claude-prompt-generator-pro)
+[⬆ Voltar ao topo](#-codex)
 
 </div>
+
